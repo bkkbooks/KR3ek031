@@ -1,0 +1,267 @@
+canonical_identifier: bkk:krp/KR3ek031/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek031/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傅氏外科
+  identifiers:
+    krp: KR3ek031
+  tags:
+    kr-categories: KR3ek
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek031.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek031_000-jc.yaml, hash: 'sha256:7f81254fec661802fbdc3718de0e610949ee20dce47bc2d43d5547dc113e4105'}
+  - {seq: 1, filename: KR3ek031_001-jc.yaml, hash: 'sha256:ff532bb81bfb808223feb16f912f2e89188b96c2e110b83733451ca0f04776e4'}
+  - {seq: 3, filename: KR3ek031_003-jc.yaml, hash: 'sha256:e6402057d301432d3df7dab435f90be1efc733f175605c47b05a033a4cef4b79'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek031_000-jc.markers.yaml, hash: 'sha256:e7dc2a9b47fd9fc5026647433e75b588df39a88ffaddaed9d6369095697fcbc4'}
+  - {seq: 1, role: markers, filename: assets/KR3ek031_001-jc.markers.yaml, hash: 'sha256:d22e862a14d887a8888d42fd7986c78a820f4fbf94422a0a297e7cd684dc2306'}
+  - {seq: 3, role: markers, filename: assets/KR3ek031_003-jc.markers.yaml, hash: 'sha256:f815c9d370d4d7be298de53d43db7f3c8ffa5bd424618686de549bdc07139824'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek031_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 144
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 13494
+  label: 青囊秘決上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d2
+    span:
+    - body
+    - 6
+    - 4046
+  label: 背癰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d3
+    span:
+    - body
+    - 4046
+    - 6176
+  label: 肺癰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d4
+    span:
+    - body
+    - 6176
+    - 7264
+  label: 無名腫毒論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d5
+    span:
+    - body
+    - 7264
+    - 7909
+  label: 對口瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d6
+    span:
+    - body
+    - 7909
+    - 8411
+  label: 腦疽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d7
+    span:
+    - body
+    - 8411
+    - 9349
+  label: 囊癰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d8
+    span:
+    - body
+    - 9349
+    - 9811
+  label: 臂癰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d9
+    span:
+    - body
+    - 9811
+    - 11682
+  label: 乳癰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d10
+    span:
+    - body
+    - 11682
+    - 12156
+  label: 肚癰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d11
+    span:
+    - body
+    - 12156
+    - 12539
+  label: 惡疽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d12
+    span:
+    - body
+    - 12539
+    - 12860
+  label: 疔瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d13
+    span:
+    - body
+    - 12860
+    - 13160
+  label: 唇疔論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek031_jc_001-d3d14
+    span:
+    - body
+    - 13160
+    - 13494
+  label: 鬢疽論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 10141
+  label: 青囊秘訣下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d2
+    span:
+    - body
+    - 6
+    - 2488
+  label: 楊梅瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d3
+    span:
+    - body
+    - 2488
+    - 2919
+  label: 腰疽論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d4
+    span:
+    - body
+    - 2919
+    - 3781
+  label: 瘰癧論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d5
+    span:
+    - body
+    - 3781
+    - 4749
+  label: 頑瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d6
+    span:
+    - body
+    - 4749
+    - 5721
+  label: 腳疽論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d7
+    span:
+    - body
+    - 5721
+    - 7202
+  label: 痔漏論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d8
+    span:
+    - body
+    - 7202
+    - 8545
+  label: 大腸癰論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek031_jc_003-d4d9
+    span:
+    - body
+    - 8545
+    - 10141
+  label: 小腸癰論
+  type: section
+  level: 2
+hash: sha256:cdb7a77fbe1effd9ba056a77f5ef6ba58261ed7310a45619a573dd3c9b3f0fbf

@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3ek031/jc/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: xml-element, offset: 1, content: '', id: KR3ek031_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3ek031_jc_000-d2p2}}
+  - {type: 'tls:seg', offset: 1, content: '', id: KR3ek031_jc_000-d2.p2s1}
+  - {type: punctuation, offset: 1, content: 《, id: KR3ek031_jc_000-bkkpn1}
+  - {type: punctuation, offset: 5, content: 》, id: KR3ek031_jc_000-bkkpn2}
+  - {type: punctuation, offset: 8, content: ，, id: KR3ek031_jc_000-bkkpn3}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR3ek031_jc_000-d2.p2s2}
+  - {type: punctuation, offset: 15, content: ，, id: KR3ek031_jc_000-bkkpn4}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3ek031_jc_000-d2.p2s3}
+  - {type: punctuation, offset: 21, content: ，, id: KR3ek031_jc_000-bkkpn5}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3ek031_jc_000-d2.p2s4}
+  - {type: punctuation, offset: 29, content: 。, id: KR3ek031_jc_000-bkkpn6}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3ek031_jc_000-d2.p2s5}
+  - {type: punctuation, offset: 34, content: ，, id: KR3ek031_jc_000-bkkpn7}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR3ek031_jc_000-d2.p2s6}
+  - {type: punctuation, offset: 38, content: ，, id: KR3ek031_jc_000-bkkpn8}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3ek031_jc_000-d2.p2s7}
+  - {type: punctuation, offset: 42, content: 、, id: KR3ek031_jc_000-bkkpn9}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3ek031_jc_000-d2.p2s8}
+  - {type: punctuation, offset: 46, content: ，, id: KR3ek031_jc_000-bkkpn10}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR3ek031_jc_000-d2.p2s9}
+  - {type: punctuation, offset: 52, content: 。, id: KR3ek031_jc_000-bkkpn11}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR3ek031_jc_000-d2.p2s10}
+  - {type: punctuation, offset: 57, content: ，, id: KR3ek031_jc_000-bkkpn12}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3ek031_jc_000-d2.p2s11}
+  - {type: punctuation, offset: 61, content: 。, id: KR3ek031_jc_000-bkkpn13}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3ek031_jc_000-d2.p2s12}
+  - {type: punctuation, offset: 65, content: ，, id: KR3ek031_jc_000-bkkpn14}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR3ek031_jc_000-d2.p2s13}
+  - {type: punctuation, offset: 69, content: ，, id: KR3ek031_jc_000-bkkpn15}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3ek031_jc_000-d2.p2s14}
+  - {type: punctuation, offset: 75, content: ，, id: KR3ek031_jc_000-bkkpn16}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3ek031_jc_000-d2.p2s15}
+  - {type: punctuation, offset: 79, content: ？, id: KR3ek031_jc_000-bkkpn17}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3ek031_jc_000-d2.p2s16}
+  - {type: punctuation, offset: 87, content: ，, id: KR3ek031_jc_000-bkkpn18}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3ek031_jc_000-d2.p2s17}
+  - {type: punctuation, offset: 92, content: 《, id: KR3ek031_jc_000-bkkpn19}
+  - {type: punctuation, offset: 99, content: 》, id: KR3ek031_jc_000-bkkpn20}
+  - {type: punctuation, offset: 107, content: 。, id: KR3ek031_jc_000-bkkpn21}
+  - {type: xml-element, offset: 107, content: '', id: KR3ek031_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ek031_jc_000-d2p2}}
+  - {type: xml-element, offset: 107, content: '', id: KR3ek031_jc_000-d2p4, name: p, role: open, attrs: {'xml:id': KR3ek031_jc_000-d2p4}}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR3ek031_jc_000-d2.p4s1}
+  - {type: punctuation, offset: 131, content: 。, id: KR3ek031_jc_000-bkkpn22}
+  - {type: xml-element, offset: 131, content: '', id: KR3ek031_jc_000-d2p4_end, name: p, role: close, attrs: {'xml:id': KR3ek031_jc_000-d2p4}}
+  - {type: xml-element, offset: 131, content: '', id: KR3ek031_jc_000-d2p6, name: p, role: open, attrs: {'xml:id': KR3ek031_jc_000-d2p6}}
+  - {type: 'tls:seg', offset: 131, content: '', id: KR3ek031_jc_000-d2.p6s1}
+  - {type: xml-element, offset: 144, content: '', id: KR3ek031_jc_000-d2p6_end, name: p, role: close, attrs: {'xml:id': KR3ek031_jc_000-d2p6}}
+  body: []
+  back: []
+hash: sha256:e7dc2a9b47fd9fc5026647433e75b588df39a88ffaddaed9d6369095697fcbc4
