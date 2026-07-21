@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ek031/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序青囊祕訣余閲之未知其果效與否而其議論純正望之而知為異書也因揮汗抄録帶入都門試之對口痔漏等症無不應手而愈雖扁盧神術無逾乎此潘子原本失其姓氏書傳而人不傳是誰之咎余聞君子不沒人善異日者當以無名氏青囊祕訣辨其眉而付諸梓頭大清雍正元年歲次癸卯巧月帆川王大德撰於金堂之旅次河南懷慶濟源廟道張干學祕藏
   hash: sha256:ae00bb0a543023777c7830902872fd981daf9327271ce10348eb5c0dd28627de
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ek031_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 傅氏外科
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ek031.xml
-hash: sha256:69d30146cb29f8689ac123d35922adef6a53279254d45ff10767cd93e9c161e4
+hash: sha256:89ee9b385aa803ea6dfafa9f8561fb20efe683e841d7cceab90cfac373053b5d
